@@ -9,7 +9,7 @@ body {
     color:black;
 }
 .post_title{
-    font-size: 25px;
+    font-size: 15px;
 }
 .post{
     font-size: 15px;
@@ -31,7 +31,7 @@ body {
     height: 100px;
 }
 a {
-    color: rgb(255, 0, 0);
+    color: blue
 }
 #title {
     text-decoration: line-through;
