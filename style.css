@@ -50,3 +50,8 @@ a {
     border: solid 2px black;
     border-radius: 5px;
 }
+.creditos {
+    font-family: fantasy;
+    text-align: right;
+    margin-right: 15px;
+}
